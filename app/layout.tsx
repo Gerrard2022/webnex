@@ -10,7 +10,11 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "WEBNEX",
   description: "web development company",
+  icons: {
+    icon: '/webnex.jpg', 
+  },
 };
+
 
 export default function RootLayout({
   children,

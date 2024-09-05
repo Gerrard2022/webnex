@@ -204,14 +204,7 @@ export const navItems = [
   export const socialMedia = [
     {
       id: 1,
-      img: "/git.svg",
-    },
-    {
-      id: 2,
-      img: "/twit.svg",
-    },
-    {
-      id: 3,
-      img: "/link.svg",
-    },
+      img: "/insta.svg",
+      link: "https://www.instagram.com/w_e_b_n_e_x/"
+    }
   ];
